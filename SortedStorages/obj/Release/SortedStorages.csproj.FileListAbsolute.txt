@@ -1,0 +1,6 @@
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\bin\Release\SortedStorages.dll
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\bin\Release\SortedStorages.pdb
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\obj\Release\SortedStorages.csprojResolveAssemblyReference.cache
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\obj\Release\SortedStorages.csproj.CoreCompileInputs.cache
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\obj\Release\SortedStorages.dll
+C:\Users\blakpri\source\repos\SortedStorages\SortedStorages\obj\Release\SortedStorages.pdb
